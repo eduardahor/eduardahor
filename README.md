@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Analise e Desenvolvimento de Sistemas em Universidade Tuiuti do Paraná.
-- 🌱 Aprendendo mais sobre JavaScript.
+- 🌱 Aprendendo mais sobre aplicações Java.
 
 ## Minhas Skills
 
@@ -20,6 +20,8 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+
 
 **Utilidades**
 
@@ -33,6 +35,7 @@
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=#FCC624&logo=linux)
 
 **Ferramentas de desenvolvimento**
 
@@ -40,7 +43,6 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 <br/>
 
