@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Analise e Desenvolvimento de Sistemas em Universidade Tuiuti do Paraná.
+- 🎓 Formada em Analise e Desenvolvimento de Sistemas em Universidade Tuiuti do Paraná.
 - 🌱 Aprendendo mais sobre aplicações Java.
 
 ## Minhas Skills
