@@ -1,4 +1,4 @@
-<img width="100%" src=""https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:4C1D95,100:A855F7&text=Eduarda%20Bzunek&textBg=false&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=36"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:4C1D95,100:A855F7&text=Eduarda%20Bzunek&textBg=false&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=36"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;FULL+STACK+DEVELOPER;REACT+%7C+JAVA+%7C+PYTHON;AI+%7C+SOFTWARE+ENGINEERING;WELCOME+TO+MY+CODE+UNIVERSE"/>
 
@@ -10,7 +10,7 @@
 
 ```bash
 ╭────────────────────────────╮
-│    EDUARDA SYSTEM v2.0     		│
+│    EDUARDA SYSTEM v2.0     │
 ╰────────────────────────────╯
 
 Initializing system...
@@ -212,38 +212,6 @@ My experience included Java EE, Struts, Hibernate, REST APIs, MySQL, PostgreSQL,
 STATUS:
 Building better software every day 🚀
 ```
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardahor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardahor&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=eduardahor&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
-## 🐍 Contribution Animation
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/eduardahor/eduardahor/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
